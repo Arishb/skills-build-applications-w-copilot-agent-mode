@@ -25,7 +25,8 @@ SECRET_KEY = "django-insecure-msu-vz_@r%k--*wj4dldnj7@y$lf=9um*96fw#c8t)!(!(_4y1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+# Allow access to Codespace URL and localhost
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'crispy-adventure-x5gq5r49vgpf6xr4-8000.app.github.dev']
 
 
 # Application definition

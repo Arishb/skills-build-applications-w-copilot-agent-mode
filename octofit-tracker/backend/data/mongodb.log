@@ -317,3 +317,31 @@
 2025-04-08T18:26:27.779+0000 I STORAGE  [conn56] createCollection: octofit_db.octofit_tracker_workout with generated UUID: a2b97f7c-e938-4409-b134-2d180b982d40
 2025-04-08T18:26:27.788+0000 I NETWORK  [conn55] end connection 127.0.0.1:46750 (1 connection now open)
 2025-04-08T18:26:27.788+0000 I NETWORK  [conn56] end connection 127.0.0.1:46766 (0 connections now open)
+2025-04-08T18:29:57.140+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:47210 #57 (1 connection now open)
+2025-04-08T18:29:57.140+0000 I NETWORK  [conn57] received client metadata from 127.0.0.1:47210 conn57: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:29:57.141+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:47212 #58 (2 connections now open)
+2025-04-08T18:29:57.141+0000 I NETWORK  [conn58] received client metadata from 127.0.0.1:47212 conn58: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:30:36.177+0000 I NETWORK  [conn58] end connection 127.0.0.1:47212 (1 connection now open)
+2025-04-08T18:30:36.177+0000 I NETWORK  [conn57] end connection 127.0.0.1:47210 (0 connections now open)
+2025-04-08T18:30:36.639+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:40924 #59 (1 connection now open)
+2025-04-08T18:30:36.639+0000 I NETWORK  [conn59] received client metadata from 127.0.0.1:40924 conn59: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:30:36.640+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:40930 #60 (2 connections now open)
+2025-04-08T18:30:36.640+0000 I NETWORK  [conn60] received client metadata from 127.0.0.1:40930 conn60: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:30:39.168+0000 I NETWORK  [conn60] end connection 127.0.0.1:40930 (1 connection now open)
+2025-04-08T18:30:39.168+0000 I NETWORK  [conn59] end connection 127.0.0.1:40924 (0 connections now open)
+2025-04-08T18:30:39.622+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:46046 #61 (1 connection now open)
+2025-04-08T18:30:39.622+0000 I NETWORK  [conn61] received client metadata from 127.0.0.1:46046 conn61: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:30:39.623+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:46062 #62 (2 connections now open)
+2025-04-08T18:30:39.623+0000 I NETWORK  [conn62] received client metadata from 127.0.0.1:46062 conn62: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:32:10.294+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:55774 #63 (3 connections now open)
+2025-04-08T18:32:10.295+0000 I NETWORK  [conn63] received client metadata from 127.0.0.1:55774 conn63: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:32:10.296+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:55782 #64 (4 connections now open)
+2025-04-08T18:32:10.296+0000 I NETWORK  [conn64] received client metadata from 127.0.0.1:55782 conn64: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:32:10.321+0000 I NETWORK  [conn64] end connection 127.0.0.1:55782 (3 connections now open)
+2025-04-08T18:32:10.321+0000 I NETWORK  [conn63] end connection 127.0.0.1:55774 (2 connections now open)
+2025-04-08T18:32:38.784+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:39530 #65 (3 connections now open)
+2025-04-08T18:32:38.785+0000 I NETWORK  [conn65] received client metadata from 127.0.0.1:39530 conn65: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:32:38.786+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:39532 #66 (4 connections now open)
+2025-04-08T18:32:38.786+0000 I NETWORK  [conn66] received client metadata from 127.0.0.1:39532 conn66: { driver: { name: "PyMongo", version: "3.12.0" }, os: { type: "Linux", name: "Linux", architecture: "x86_64", version: "6.8.0-1021-azure" }, platform: "CPython 3.12.1.final.0" }
+2025-04-08T18:32:38.810+0000 I NETWORK  [conn66] end connection 127.0.0.1:39532 (3 connections now open)
+2025-04-08T18:32:38.810+0000 I NETWORK  [conn65] end connection 127.0.0.1:39530 (2 connections now open)
